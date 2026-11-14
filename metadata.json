@@ -1,0 +1,6 @@
+{
+  "name": "Cloudberry Home - Luxury Home Decor & Interiors",
+  "description": "Modern, aesthetic, and luxurious home decor e-commerce store with curated interior collections, artisanal accents, and thoughtful living essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

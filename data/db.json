@@ -1,0 +1,735 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Kyoto Fluted Ceramic Vase Trio",
+      "slug": "kyoto-fluted-ceramic-vase-trio",
+      "subtitle": "Hand-thrown stoneware with artisanal matte ivory glaze",
+      "description": "Sculpted with subtle vertical fluting, this trio of vases brings architectural rhythm to coffee tables, consoles, or dining surfaces. Cast from natural clay and hand-finished with a soft, chalky reactive ivory glaze.",
+      "price": 3499,
+      "comparePrice": 4299,
+      "category": "Vases",
+      "categorySlug": "vases",
+      "collection": "The Neutral Edit",
+      "collectionSlug": "the-neutral-edit",
+      "tags": [
+        "Ceramic",
+        "Handmade",
+        "Neutral",
+        "Living Room"
+      ],
+      "inStock": true,
+      "stockCount": 24,
+      "dimensions": "Large: 26cm H x 14cm D | Med: 20cm H x 12cm D | Small: 14cm H x 10cm D",
+      "materials": "High-fire stoneware, non-toxic mineral glaze",
+      "colors": [
+        {
+          "name": "Warm Ivory",
+          "hex": "#F5F0E8"
+        },
+        {
+          "name": "Mocha Sand",
+          "hex": "#D6C8B8"
+        },
+        {
+          "name": "Sage Mist",
+          "hex": "#CCD5C9"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_accessories_1791871320029.jpg",
+        "/src/assets/images/hero_living_room_1791871320262.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 38,
+      "isFeatured": true,
+      "isNew": true,
+      "careInstructions": "Wipe clean with a damp microfiber cloth. Waterproof interior allows fresh floral stems."
+    },
+    {
+      "id": "prod-2",
+      "name": "Aura Travertine & Linen Table Lamp",
+      "slug": "aura-travertine-linen-table-lamp",
+      "subtitle": "Solid honed stone base with natural woven shade",
+      "description": "Grounded by a heavy cylindrical base of honed Roman travertine, the Aura lamp produces an ambient 2700K golden glow through a bespoke textured linen drum shade. Includes brass rotary dimmer switch.",
+      "price": 7899,
+      "comparePrice": 9499,
+      "category": "Lamps",
+      "categorySlug": "lamps",
+      "collection": "The Little Luxuries",
+      "collectionSlug": "the-little-luxuries",
+      "tags": [
+        "Lighting",
+        "Travertine",
+        "Brass",
+        "Bedroom"
+      ],
+      "inStock": true,
+      "stockCount": 16,
+      "dimensions": "Height: 46cm | Shade Diameter: 32cm | Cord: 1.8m braided textile",
+      "materials": "Solid travertine stone, brushed solid brass hardware, Belgian linen shade",
+      "colors": [
+        {
+          "name": "Natural Travertine",
+          "hex": "#EAE1D2"
+        },
+        {
+          "name": "Walnut Wood Accent",
+          "hex": "#5A4638"
+        }
+      ],
+      "images": [
+        "/src/assets/images/room_reading_nook_1791871320456.jpg",
+        "/src/assets/images/hero_bedroom_1791871321325.jpg"
+      ],
+      "rating": 5,
+      "reviewCount": 22,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "Dust shade gently with a soft brush. Seal travertine stone once yearly to protect against spills."
+    },
+    {
+      "id": "prod-3",
+      "name": "Solstice Heavy Slub Linen Cushion Cover",
+      "slug": "solstice-heavy-slub-linen-cushion-cover",
+      "subtitle": "French flax linen with hidden zipper and tailored flanged edge",
+      "description": "Woven from 380 GSM heavyweight washed linen, the Solstice cushion offers unparalleled softness with rustic elegance. The tailored flange edge creates casual volume that softens structured sofas.",
+      "price": 1899,
+      "comparePrice": 2299,
+      "category": "Cushions",
+      "categorySlug": "cushions",
+      "collection": "Slow Living",
+      "collectionSlug": "slow-living",
+      "tags": [
+        "Textiles",
+        "Linen",
+        "Living Room",
+        "Bedroom"
+      ],
+      "inStock": true,
+      "stockCount": 45,
+      "dimensions": "50cm x 50cm (Insert not included; fits 52x52cm feather insert)",
+      "materials": "100% European Flax certified linen",
+      "colors": [
+        {
+          "name": "Desert Oat",
+          "hex": "#E2D7C3"
+        },
+        {
+          "name": "Mocha Espresso",
+          "hex": "#4A3D34"
+        },
+        {
+          "name": "Olive Sage",
+          "hex": "#7A8875"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_living_room_1791871320262.jpg",
+        "/src/assets/images/hero_bedroom_1791871321325.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 54,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "Machine wash cold on gentle cycle. Tumble dry low or air dry in shade. Warm iron if desired."
+    },
+    {
+      "id": "prod-4",
+      "name": "Verona Sculpted Marble Footed Bowl",
+      "slug": "verona-sculpted-marble-footed-bowl",
+      "subtitle": "Carved from single block of white Banswara marble",
+      "description": "An organic, fluid silhouette inspired by classical antiquity. Each Verona bowl is carved from a single piece of solid white marble with subtle natural grey and taupe veining, perched on three rounded pedestal feet.",
+      "price": 4999,
+      "comparePrice": 5999,
+      "category": "Table Decor",
+      "categorySlug": "table-decor",
+      "collection": "The Little Luxuries",
+      "collectionSlug": "the-little-luxuries",
+      "tags": [
+        "Marble",
+        "Sculptural",
+        "Table Decor",
+        "Handmade"
+      ],
+      "inStock": true,
+      "stockCount": 12,
+      "dimensions": "28cm Diameter x 11cm Height | Weight: 3.8 kg",
+      "materials": "Solid natural Indian Banswara white marble, honed matte seal",
+      "colors": [
+        {
+          "name": "White Calacatta Vein",
+          "hex": "#EBEBEB"
+        },
+        {
+          "name": "Forest Green Marble",
+          "hex": "#2E3D30"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_accessories_1791871320029.jpg",
+        "/src/assets/images/hero_living_room_1791871320262.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 19,
+      "isFeatured": true,
+      "isNew": true,
+      "careInstructions": "Food safe. Hand wash with mild dish soap. Do not leave acidic liquids or citrus peels resting in bowl."
+    },
+    {
+      "id": "prod-5",
+      "name": "Faux Fiddle Leaf Fig in Terracotta Vessel",
+      "slug": "faux-fiddle-leaf-fig-in-terracotta-vessel",
+      "subtitle": "Botanically accurate foliage with textured real-touch leaves",
+      "description": "Enjoy enduring botanical presence without watering or sunlight constraints. Featuring 28 botanically realistic leaves with natural vein depth, potted permanently in an antiqued clay vessel with preserved faux moss.",
+      "price": 5299,
+      "comparePrice": 6499,
+      "category": "Artificial Flowers",
+      "categorySlug": "artificial-flowers",
+      "collection": "Nature at Home",
+      "collectionSlug": "nature-at-home",
+      "tags": [
+        "Greenery",
+        "Botanical",
+        "Living Room",
+        "Planters"
+      ],
+      "inStock": true,
+      "stockCount": 18,
+      "dimensions": "Height: 110cm | Pot Diameter: 24cm",
+      "materials": "Polyurethane real-touch foliage, wire armature, reclaimed clay pot",
+      "colors": [
+        {
+          "name": "Deep Botanical Green",
+          "hex": "#3B4D3C"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_living_room_1791871320262.jpg",
+        "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.7,
+      "reviewCount": 31,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "Wipe leaves periodically with a dry feather duster or soft cloth to prevent dust accumulation."
+    },
+    {
+      "id": "prod-6",
+      "name": "Elysian Minimalist Plaster Relief Wall Art",
+      "slug": "elysian-minimalist-plaster-relief-wall-art",
+      "subtitle": "Tactile layered gypsum paste in natural oak gallery frame",
+      "description": "Subtle shadows change gracefully throughout the day as light moves across this tactile textured plaster artwork. Hand-troweled onto archival wood board and framed in sustainable blonde Japanese oak.",
+      "price": 6499,
+      "comparePrice": 7999,
+      "category": "Wall Art",
+      "categorySlug": "wall-art",
+      "collection": "The Neutral Edit",
+      "collectionSlug": "the-neutral-edit",
+      "tags": [
+        "Art",
+        "Wall Decor",
+        "Minimalist",
+        "Living Room"
+      ],
+      "inStock": true,
+      "stockCount": 9,
+      "dimensions": "80cm x 60cm x 4cm (Includes solid oak frame and pre-installed D-rings)",
+      "materials": "Gypsum relief plaster, heavyweight backing board, solid white oak frame",
+      "colors": [
+        {
+          "name": "Chalk Ivory",
+          "hex": "#FAF6EF"
+        },
+        {
+          "name": "Warm Greige",
+          "hex": "#DED8CE"
+        }
+      ],
+      "images": [
+        "/src/assets/images/dept_wall_art_mirrors_1791954601088.jpg",
+        "/src/assets/images/gilded_frond_panel.jpg",
+        "/src/assets/images/hero_living_room_1791871320262.jpg"
+      ],
+      "rating": 5,
+      "reviewCount": 15,
+      "isFeatured": true,
+      "isNew": true,
+      "careInstructions": "Hang with provided wall anchors. Dust frame and surface lightly with clean dry paintbrush."
+    },
+    {
+      "id": "prod-7",
+      "name": "Nocturne Sandalwood & Amber Soy Candle",
+      "slug": "nocturne-sandalwood-amber-soy-candle",
+      "subtitle": "Ceramic lidded jar with crackling organic wooden wick",
+      "description": "Infuse your space with comforting grounding warmth. Opening with notes of cardamom and cedarwood, unfurling into rich smoked sandalwood and velvety amber resin. Burns clean for over 65 hours.",
+      "price": 1499,
+      "comparePrice": 1799,
+      "category": "Candles",
+      "categorySlug": "candles",
+      "collection": "Slow Living",
+      "collectionSlug": "slow-living",
+      "tags": [
+        "Aromatherapy",
+        "Candle",
+        "Handmade",
+        "Bedroom"
+      ],
+      "inStock": true,
+      "stockCount": 60,
+      "dimensions": "380g net weight | 10cm Height x 9cm Diameter",
+      "materials": "100% natural soy & coconut wax, organic wood wick, handmade stoneware vessel",
+      "colors": [
+        {
+          "name": "Matte Sandstone",
+          "hex": "#DFD5C6"
+        },
+        {
+          "name": "Charcoal Mocha",
+          "hex": "#3C332D"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_accessories_1791871320029.jpg",
+        "/src/assets/images/room_reading_nook_1791871320456.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 88,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "Trim wood wick to 5mm before every lighting. Burn for 2-3 hours on first burn to prevent tunneling."
+    },
+    {
+      "id": "prod-8",
+      "name": "Wabi-Sabi Hand-Carved Mango Wood Tray",
+      "slug": "wabi-sabi-hand-carved-mango-wood-tray",
+      "subtitle": "Solid sustainably harvested wood with organic live-edge contours",
+      "description": "Perfect for grouping coffee table objects, resting teacups, or styling bedside essentials. Each tray showcases distinctive grain variations, warm golden-brown undertones, and subtle artisan chisel marks.",
+      "price": 2799,
+      "comparePrice": 3299,
+      "category": "Table Decor",
+      "categorySlug": "table-decor",
+      "collection": "Slow Living",
+      "collectionSlug": "slow-living",
+      "tags": [
+        "Wood",
+        "Handmade",
+        "Tray",
+        "Living Room"
+      ],
+      "inStock": true,
+      "stockCount": 30,
+      "dimensions": "42cm Length x 26cm Width x 4cm Height",
+      "materials": "Sustainably sourced kiln-dried mango wood, natural beeswax seal",
+      "colors": [
+        {
+          "name": "Warm Amber Oak",
+          "hex": "#9E744F"
+        },
+        {
+          "name": "Raw Natural Ash",
+          "hex": "#D1BC9E"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_living_room_1791871320262.jpg",
+        "/src/assets/images/hero_accessories_1791871320029.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 42,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "Wipe with soft damp cloth. Condition periodically with mineral oil or organic beeswax paste."
+    },
+    {
+      "id": "prod-9",
+      "name": "Astrid Brushed Brass Minimalist Table Clock",
+      "slug": "astrid-brushed-brass-minimalist-table-clock",
+      "subtitle": "Silent sweep quartz movement in solid spun brass case",
+      "description": "An elegant counterpoint to screen fatigue. The Astrid clock features a clean dial with embossed hour batons, spun brass casing, and a whisper-silent non-ticking Japanese quartz movement.",
+      "price": 2499,
+      "comparePrice": 2999,
+      "category": "Lamps",
+      "categorySlug": "lamps",
+      "collection": "The Little Luxuries",
+      "collectionSlug": "the-little-luxuries",
+      "tags": [
+        "Brass",
+        "Decor",
+        "Bedroom",
+        "Table Decor"
+      ],
+      "inStock": true,
+      "stockCount": 22,
+      "dimensions": "12cm Diameter x 5cm Depth | Weighs 650g",
+      "materials": "Solid brass with clear anti-tarnish protective lacquer, mineral glass lens",
+      "colors": [
+        {
+          "name": "Muted Brushed Gold",
+          "hex": "#C5A059"
+        },
+        {
+          "name": "Antique Bronze",
+          "hex": "#635345"
+        }
+      ],
+      "images": [
+        "/src/assets/images/room_reading_nook_1791871320456.jpg",
+        "/src/assets/images/hero_bedroom_1791871321325.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 27,
+      "isFeatured": true,
+      "isNew": true,
+      "careInstructions": "Requires 1 AA battery (included). Clean with soft lint-free cloth. Do not use chemical metal polishes."
+    },
+    {
+      "id": "prod-10",
+      "name": "Merino Wool Waffle Throw Blanket with Fringe",
+      "slug": "merino-wool-waffle-throw-blanket-with-fringe",
+      "subtitle": "Ultra-fine 19-micron pure wool in deep waffle weave",
+      "description": "Weightless yet sumptuously warm. Crafted from ethically sourced Australian merino wool, woven into an airy dimensional honeycomb waffle structure finished with delicate twisted fringe borders.",
+      "price": 4599,
+      "comparePrice": 5499,
+      "category": "Throws",
+      "categorySlug": "throws",
+      "collection": "Slow Living",
+      "collectionSlug": "slow-living",
+      "tags": [
+        "Textiles",
+        "Merino Wool",
+        "Bedroom",
+        "Living Room"
+      ],
+      "inStock": true,
+      "stockCount": 19,
+      "dimensions": "180cm x 130cm plus 10cm hand-knotted fringe",
+      "materials": "100% superfine Merino wool (Woolmark certified)",
+      "colors": [
+        {
+          "name": "Ivory Cream",
+          "hex": "#F7F3EB"
+        },
+        {
+          "name": "Warm Mocha",
+          "hex": "#58463B"
+        },
+        {
+          "name": "Muted Sage",
+          "hex": "#879585"
+        }
+      ],
+      "images": [
+        "/src/assets/images/room_reading_nook_1791871320456.jpg",
+        "/src/assets/images/hero_living_room_1791871320262.jpg"
+      ],
+      "rating": 5,
+      "reviewCount": 35,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "Dry clean recommended, or hand wash gently in cold water with wool detergent. Dry flat."
+    },
+    {
+      "id": "prod-11",
+      "name": "Arched Minimalist Brass Wall Mirror",
+      "slug": "arched-minimalist-brass-wall-mirror",
+      "subtitle": "Slender extruded brass frame with distortion-free glass",
+      "description": "An architectural statement that amplifies light and space. Slender 8mm brass edge profile with timeless soft curved arch silhouette, providing impeccable crystal-clear reflection.",
+      "price": 8999,
+      "comparePrice": 10999,
+      "category": "Mirrors",
+      "categorySlug": "mirrors",
+      "collection": "The Little Luxuries",
+      "collectionSlug": "the-little-luxuries",
+      "tags": [
+        "Mirrors",
+        "Brass",
+        "Living Room",
+        "Bedroom"
+      ],
+      "inStock": true,
+      "stockCount": 11,
+      "dimensions": "90cm Height x 60cm Width x 2.5cm Depth | Weighs 7.2kg",
+      "materials": "Extruded brass casing, shatter-resistant silver-backed float glass",
+      "colors": [
+        {
+          "name": "Muted Gold Brass",
+          "hex": "#C7A25D"
+        },
+        {
+          "name": "Matte Espresso Black",
+          "hex": "#262220"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_living_room_1791871320262.jpg",
+        "/src/assets/images/room_reading_nook_1791871320456.jpg"
+      ],
+      "rating": 4.9,
+      "reviewCount": 18,
+      "isFeatured": false,
+      "isNew": true,
+      "careInstructions": "Spray glass cleaner directly onto cloth (not onto mirror surface) and buff dry with microfiber."
+    },
+    {
+      "id": "prod-12",
+      "name": "Cast Brass Taper Candle Holders (Pair)",
+      "slug": "cast-brass-taper-candle-holders-pair",
+      "subtitle": "Substantial weighted bases with flared drip cups",
+      "description": "Designed to elevate evening dining and mantelscapes. Solid cast brass with a gentle satin brushed luster that deepens with character over time. Accommodates standard 22mm beeswax or paraffin tapers.",
+      "price": 2199,
+      "comparePrice": 2699,
+      "category": "Candles",
+      "categorySlug": "candles",
+      "collection": "The Little Luxuries",
+      "collectionSlug": "the-little-luxuries",
+      "tags": [
+        "Brass",
+        "Candles",
+        "Table Decor",
+        "Handmade"
+      ],
+      "inStock": true,
+      "stockCount": 28,
+      "dimensions": "Tall: 24cm H | Short: 18cm H | Base: 8cm diameter",
+      "materials": "Solid forged brass, felted underside base to protect furniture surfaces",
+      "colors": [
+        {
+          "name": "Satin Brass",
+          "hex": "#D2AC63"
+        }
+      ],
+      "images": [
+        "/src/assets/images/hero_accessories_1791871320029.jpg",
+        "/src/assets/images/hero_living_room_1791871320262.jpg"
+      ],
+      "rating": 4.8,
+      "reviewCount": 29,
+      "isFeatured": true,
+      "isNew": false,
+      "careInstructions": "To remove wax residue, immerse in warm water for 2 minutes and wipe clean. Polish with dry cotton."
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1024",
+      "orderNumber": "CB-849201",
+      "date": "2026-10-08T14:32:00Z",
+      "items": [
+        {
+          "product": {
+            "id": "prod-1",
+            "name": "Kyoto Fluted Ceramic Vase Trio",
+            "slug": "kyoto-fluted-ceramic-vase-trio",
+            "subtitle": "Hand-thrown stoneware with artisanal matte ivory glaze",
+            "description": "Sculpted with subtle vertical fluting, this trio of vases brings architectural rhythm to coffee tables, consoles, or dining surfaces. Cast from natural clay and hand-finished with a soft, chalky reactive ivory glaze.",
+            "price": 3499,
+            "comparePrice": 4299,
+            "category": "Vases",
+            "categorySlug": "vases",
+            "collection": "The Neutral Edit",
+            "collectionSlug": "the-neutral-edit",
+            "tags": [
+              "Ceramic",
+              "Handmade",
+              "Neutral",
+              "Living Room"
+            ],
+            "inStock": true,
+            "stockCount": 24,
+            "dimensions": "Large: 26cm H x 14cm D | Med: 20cm H x 12cm D | Small: 14cm H x 10cm D",
+            "materials": "High-fire stoneware, non-toxic mineral glaze",
+            "colors": [
+              {
+                "name": "Warm Ivory",
+                "hex": "#F5F0E8"
+              },
+              {
+                "name": "Mocha Sand",
+                "hex": "#D6C8B8"
+              },
+              {
+                "name": "Sage Mist",
+                "hex": "#CCD5C9"
+              }
+            ],
+            "images": [
+              "/src/assets/images/hero_accessories_1791871320029.jpg",
+              "/src/assets/images/hero_living_room_1791871320262.jpg"
+            ],
+            "rating": 4.9,
+            "reviewCount": 38,
+            "isFeatured": true,
+            "isNew": true,
+            "careInstructions": "Wipe clean with a damp microfiber cloth. Waterproof interior allows fresh floral stems."
+          },
+          "quantity": 1,
+          "selectedColor": "Warm Ivory"
+        },
+        {
+          "product": {
+            "id": "prod-7",
+            "name": "Nocturne Sandalwood & Amber Soy Candle",
+            "slug": "nocturne-sandalwood-amber-soy-candle",
+            "subtitle": "Ceramic lidded jar with crackling organic wooden wick",
+            "description": "Infuse your space with comforting grounding warmth. Opening with notes of cardamom and cedarwood, unfurling into rich smoked sandalwood and velvety amber resin. Burns clean for over 65 hours.",
+            "price": 1499,
+            "comparePrice": 1799,
+            "category": "Candles",
+            "categorySlug": "candles",
+            "collection": "Slow Living",
+            "collectionSlug": "slow-living",
+            "tags": [
+              "Aromatherapy",
+              "Candle",
+              "Handmade",
+              "Bedroom"
+            ],
+            "inStock": true,
+            "stockCount": 60,
+            "dimensions": "380g net weight | 10cm Height x 9cm Diameter",
+            "materials": "100% natural soy & coconut wax, organic wood wick, handmade stoneware vessel",
+            "colors": [
+              {
+                "name": "Matte Sandstone",
+                "hex": "#DFD5C6"
+              },
+              {
+                "name": "Charcoal Mocha",
+                "hex": "#3C332D"
+              }
+            ],
+            "images": [
+              "/src/assets/images/hero_accessories_1791871320029.jpg",
+              "/src/assets/images/room_reading_nook_1791871320456.jpg"
+            ],
+            "rating": 4.9,
+            "reviewCount": 88,
+            "isFeatured": true,
+            "isNew": false,
+            "careInstructions": "Trim wood wick to 5mm before every lighting. Burn for 2-3 hours on first burn to prevent tunneling."
+          },
+          "quantity": 2,
+          "selectedColor": "Matte Sandstone"
+        }
+      ],
+      "subtotal": 6497,
+      "discount": 649,
+      "couponCode": "CLOUDBERRY10",
+      "shippingFee": 0,
+      "tax": 350,
+      "total": 6198,
+      "customer": {
+        "name": "Ridhi Garg",
+        "email": "gargridhi851@gmail.com",
+        "phone": "+91 98765 43210"
+      },
+      "shippingAddress": {
+        "id": "addr-1",
+        "fullName": "Ridhi Garg",
+        "phone": "+91 98765 43210",
+        "street": "402, Magnolia Elegance, Golf Course Road",
+        "apartment": "Tower B, Sector 54",
+        "city": "Gurugram",
+        "state": "Haryana",
+        "pinCode": "122002",
+        "isDefault": true
+      },
+      "paymentMethod": "razorpay",
+      "paymentStatus": "paid",
+      "razorpayPaymentId": "pay_NmK831xL90PqZ",
+      "orderStatus": "shipped",
+      "trackingNumber": "DELHIVERY-948271039",
+      "trackingSteps": [
+        {
+          "title": "Order Confirmed",
+          "date": "08 Oct, 02:32 PM",
+          "completed": true,
+          "current": false
+        },
+        {
+          "title": "Artisan Packing & QC",
+          "date": "09 Oct, 11:15 AM",
+          "completed": true,
+          "current": false
+        },
+        {
+          "title": "Handed to Delhivery Air Express",
+          "date": "10 Oct, 04:40 PM",
+          "completed": true,
+          "current": true
+        },
+        {
+          "title": "Out for Delivery",
+          "date": "Expected 13 Oct",
+          "completed": false,
+          "current": false
+        },
+        {
+          "title": "Delivered",
+          "date": "Expected 13 Oct",
+          "completed": false,
+          "current": false
+        }
+      ],
+      "notes": "Fragile ceramic shipment. Handle with care."
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Ridhi Garg",
+      "email": "gargridhi851@gmail.com",
+      "phone": "+91 98765 43210",
+      "role": "customer",
+      "createdAt": "2026-01-15T10:00:00Z",
+      "addresses": [
+        {
+          "id": "addr-1",
+          "fullName": "Ridhi Garg",
+          "phone": "+91 98765 43210",
+          "street": "402, Magnolia Elegance, Golf Course Road",
+          "apartment": "Tower B, Sector 54",
+          "city": "Gurugram",
+          "state": "Haryana",
+          "pinCode": "122002",
+          "isDefault": true
+        },
+        {
+          "id": "addr-2",
+          "fullName": "Ridhi Garg (Studio)",
+          "phone": "+91 98765 43210",
+          "street": "12, Hauz Khas Village, Designer Row",
+          "apartment": "Floor 2",
+          "city": "New Delhi",
+          "state": "Delhi",
+          "pinCode": "110016",
+          "isDefault": false
+        }
+      ]
+    }
+  ],
+  "coupons": [
+    {
+      "code": "CLOUDBERRY10",
+      "discountType": "percent",
+      "value": 10,
+      "minOrder": 1000,
+      "description": "10% off on orders above ₹1,000"
+    },
+    {
+      "code": "WELCOME500",
+      "discountType": "fixed",
+      "value": 500,
+      "minOrder": 2500,
+      "description": "Flat ₹500 off on orders above ₹2,500"
+    },
+    {
+      "code": "LUXE15",
+      "discountType": "percent",
+      "value": 15,
+      "minOrder": 5000,
+      "description": "15% off on luxury orders above ₹5,000"
+    }
+  ]
+}
